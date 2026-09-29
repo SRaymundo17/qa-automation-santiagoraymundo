@@ -1,0 +1,25 @@
+{
+  "name": "qa-automation-santiagoraymundo",
+  "version": "1.0.0",
+  "description": "Nombre: Santiago Raymundo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SRaymundo17/qa-automation-santiagoraymundo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/SRaymundo17/qa-automation-santiagoraymundo/issues"
+  },
+  "homepage": "https://github.com/SRaymundo17/qa-automation-santiagoraymundo#readme",
+  "devDependencies": {
+    "@types/node": "^26.6.3",
+    "typescript": "^7.0.2"
+  }
+}
