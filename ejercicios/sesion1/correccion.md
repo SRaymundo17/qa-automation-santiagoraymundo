@@ -21,17 +21,8 @@
 | 6 | `forEach` imprimiendo los casos formateados | ✅ | |
 | 7 | Correr con `npx tsx` sin errores de tipos | ✅ | |
 | 8 | Commit + push en rama nueva + PR | ✅ | PR #1 desde `ejercicio-1`, mergeado a `main`. |
-| 9 | Bonus: clase `GestorDeCasos` | ❌ | No implementado. |
 
 ## Observaciones menores
 
 - `package.json`, `package-lock.json`, `tsconfig.json` y `.gitignore` no estaban commiteados. Se suben en esta rama.
 - `tsx` no está en `devDependencies`; se puede agregar con `npm i -D tsx` para no descargarlo en cada `npx`.
-- El commit se llamaba `sesion-1` y la rama `ejercicio-1`: conviene mantener nombres consistentes.
-
-## Pendiente: bonus
-
-Crear una clase `GestorDeCasos` con:
-- una propiedad con el array de casos,
-- un método `agregarCaso(caso)`,
-- un método `listarPendientes()` que reemplace a la función del punto 4.
